@@ -1,14 +1,14 @@
 body{
     margin: 0%;
     padding: 0%;
-    background-image: url(star8.jpg);
+    background-image: url(IMG/star8.jpg);
     background-size: 100vh;
     
 }
 .SUN{
     height: 120px;
     width: 120px;
-    background-image: url(sun.png);
+    background-image: url(IMG/sun.png);
     border-radius: 50%;
     background-size: cover;
     background-position: center;
@@ -21,7 +21,7 @@ body{
 .mercury{
     height: 20px;
     width: 20px;
-    background: url(mercury.png);
+    background: url(IMG/mercury.png);
     border-radius: 50%;
     background-size: cover;
     position: absolute;
@@ -66,7 +66,7 @@ p{
 .venus{
     height: 40px;
     width: 40px;
-    background: url(venus.png);
+    background: url(IMG/venus.png);
     border-radius: 50%;
     background-size: 140%;
     background-position: center;
@@ -92,7 +92,7 @@ p{
 .earth{
     height: 50px;
     width: 50px;
-    background: url(earth.png);
+    background: url(IMG/earth.png);
     border-radius: 50%;
     background-size: 150%;
     background-position: center;
@@ -163,7 +163,7 @@ orbit4{}
 .mars{
     height: 30px;
     width: 30px;
-    background: url(MARS.png);
+    background: url(IMG/MARS.png);
     border-radius: 50%;
     background-size: 140%;
     background-position: center;
@@ -187,7 +187,7 @@ orbit4{}
 .jupiter{
     height: 40px;
     width: 40px;
-    background: url(Jupiter.png);
+    background: url(IMG/Jupiter.png);
     border-radius: 50%;
     background-size: 170%;
     background-position: center;
@@ -213,7 +213,7 @@ orbit4{}
 .Saturn{
     height: 50px;
     width: 50px;
-    background: url(SATURN.png);
+    background: url(IMG/SATURN.png);
     border-radius: 50%;
     background-size: 155%;
     background-position: center;
@@ -237,7 +237,7 @@ orbit4{}
 .Uranus{
     height: 30px;
     width: 30px;
-    background: url(URANUS.png);
+    background: url(IMG/URANUS.png);
     border-radius: 50%;
     background-size: 170%;
     background-position: center;
@@ -262,7 +262,7 @@ orbit4{}
 .Neptune{
     height: 30px;
     width: 30px;
-    background: url(Neptune.jpg);
+    background: url(IMG/Neptune.jpg);
     border-radius: 50%;
     background-size: 120%;
     background-position: center;
